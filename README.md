@@ -1,0 +1,3 @@
+# My homepage
+
+ericlauchiho.me
