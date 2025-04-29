@@ -21,7 +21,7 @@ const AboutMe = () => {
                     <a href="images/choco1.jpg" target="_blank"><img className="cat-image" src="images/choco1.jpg"/></a>
                     <a href="images/choco2.png" target="_blank"><img className="cat-image" src="images/choco2.png"/></a>
 
-                    <p>- A software engineer living in Taiwan with a furry feline predator (👆).</p>
+                    <p>- A software engineer living in Taiwan with a furry feline predator (<a href="https://www.instagram.com/choco20190921/" target="_blank">@choco20190921</a>).</p>
                     <p>- Grew up in Hong Kong, worked in Japan about 5 years, now in Taipei.</p>
                     <p>- Enjoy video game (LOL, Elden Ring, MH Wilds, POE 2, ETS 2, Minecraft, etc.), snowboarding and cycling.</p>
                     <br/><br/>
