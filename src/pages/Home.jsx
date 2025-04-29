@@ -17,14 +17,14 @@ const Home = () => {
                         I&apos;m Eric (or Chi Ho Lau in Chinese), a full stack developer who
                         enjoy crafting software for solving real world problems or just to
                         have fun. <br />
-                        This site showcases some of my projects.<br /><br />
+                        Following are some of my past/recent projects.<br /><br />
                         </p>
                         <br />
 
                         <h1 className="w3-text-teal">My Projects</h1>
                         <br />
 
-                        {/* ChocoGPT */}
+                        {/* CrossGPT */}
                         <h3>
                         <a
                             href="https://github.com/eric19960304/crossgpt"

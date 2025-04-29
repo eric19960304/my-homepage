@@ -21,17 +21,18 @@ const AboutMe = () => {
                     <a href="images/choco1.jpg" target="_blank"><img className="cat-image" src="images/choco1.jpg"/></a>
                     <a href="images/choco2.png" target="_blank"><img className="cat-image" src="images/choco2.png"/></a>
 
-                    <p>- A software engineer living in Tokyo with a furry feline predator (👆).</p>
-                    <p>- Grew up in Hong Kong, have been working in Japan for {'>'} 5 years.</p>
-                    <p>- Enjoy coding, video game (LOL, Elden Ring, MH Wilds, POE 2, ETS 2, Minecraft, etc.), and snowboarding.</p>
+                    <p>- A software engineer living in Taiwan with a furry feline predator (👆).</p>
+                    <p>- Grew up in Hong Kong, worked in Japan about 5 years, now in Taipei.</p>
+                    <p>- Enjoy video game (LOL, Elden Ring, MH Wilds, POE 2, ETS 2, Minecraft, etc.), snowboarding and cycling.</p>
                     <br/><br/>
 
                     <h3 className="w3-text-teal">Work Experience</h3>
                     <ul>
-                        <li>Software Engineer at <i>Indeed Japan</i> (2022 Jul - current)</li>
+                        <li>Software Engineer at <i>Google Taiwan</i> (2025 Apr - current)</li>
+                        <li>Full Stack Engineer at <i>Indeed Japan</i> (2022 Jul - 2025 Feb)</li>
                         <li>Backend Developer at <i>Crypto.com</i> (2021 Sep - 2022 Jul)</li>
-                        <li>Software Engineer at <i>AXA Life Japan (2021 Jan - 2021 Sep)</i></li>
-                        <li>Software Engineer at <i>Yahoo! Japan</i> (2019 Oct - 2020 Dec)</li>
+                        <li>Full Stack Engineer at <i>AXA Life Japan (2021 Jan - 2021 Sep)</i></li>
+                        <li>Backend Engineer at <i>Yahoo! Japan</i> (2019 Oct - 2020 Dec)</li>
                         <li>Student Research Assistant at <i>The University of Hong Kong</i> (2019 Jun - 2019 Jul)</li>
                         <li>Software Engineer Intern at <i>Fano Labs</i> (2018 May - 2018 Aug)</li>
                     </ul>
@@ -43,7 +44,7 @@ const AboutMe = () => {
                         <b>The University of Texas at Austin</b>
                         <ul>
                         <li>Master of Science in Computer Science 
-                            (<a href="https://cdso.utexas.edu/mscs" target="_blank">a great online master program</a>)
+                            (<a href="https://cdso.utexas.edu/mscs" target="_blank">online program</a>)
                         </li>
                         <li>2021 - 2024</li>
                         <li>List of courses taken</li>
