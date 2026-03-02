@@ -43,18 +43,25 @@ const Home = () => {
                 which is built on top of an &nbsp;
                 <a href="https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web">
                   open source project
-                </a>
-                , allowing myself and my friend to pay much less for using
-                latest models from OpenAPI, Gemini, XAi, etc.
+                </a>.
               </li>
-              <li>AWS EC2, Docker + Next.js</li>
+              <li>Allow using the latest models from OpenAPI, Gemini, XAi, and Claude without multiple subscriptions, just pay as you use.</li>
+              <li>Vibe coded with Claude Code and hosted at <a href="https://chat.ericlauchiho.me" target="_blank" style={{color: "rgb(200, 50, 50)"}}>https://chat.ericlauchiho.me</a>.</li>
             </ul>
 
-            <a href="images/crossgpt/demo.png" target="_blank">
+            <a href="images/crossgpt/demo1.png" target="_blank">
               <img
                 className="showcase"
-                src="images/crossgpt/demo.png"
-                width="65%"
+                src="images/crossgpt/demo1.png"
+                width="45%"
+              />
+            </a>
+
+            <a href="images/crossgpt/demo2.png" target="_blank" style={{marginLeft: 1}}>
+              <img
+                className="showcase"
+                src="images/crossgpt/demo2.png"
+                width="40%"
               />
             </a>
             <br />
@@ -112,42 +119,37 @@ const Home = () => {
               <i>Ride Sharing App for Hong Kong (React Native App)</i>
             </h3>
             <ul>
+              <li>Final year project (2018 Sep - 2019 Apr)</li>
               <li>
                 <a
                   href="https://github.com/eric19960304/FYP-Ridesharing-App"
                   target="_blank"
                 >
-                  FE Github link
-                </a>
-                /
+                  Mobile App
+                </a>: React Native + NativeBase + Expo</li>
+              <li>
                 <a
                   href="https://github.com/eric19960304/Ridesharing-App-For-HK-Back-End"
                   target="_blank"
                 >
-                  BE Github link
-                </a>
-                /
+                  Back-end system
+                </a>: Nodejs + Expressjs + Redis + MongoDB + Python
+              </li>
+              <li>
                 <a
                   href="https://eric19960304.github.io/FYP-Homepage/documents/FYP_Poster.pdf"
                   style={{
-                    color: "rgb(204, 49, 49)",
+                    color: "rgb(200, 50, 50)",
                   }}
                   target="_blank"
                 >
                   Poster
-                </a>
-                /
-                <a
+                </a> , <a
                   href="https://i.cs.hku.hk/fyp/2018/fyp18028/"
                   target="_blank"
                 >
-                  Homepage link
+                  Project Homepage
                 </a>
-              </li>
-              <li>Final year project (2018 Sep - 2019 Apr)</li>
-              <li>Mobile App: React Native + NativeBase + Expo</li>
-              <li>
-                Back-end system: Nodejs + Expressjs + Redis + MongoDB + Python
               </li>
             </ul>
             <a
