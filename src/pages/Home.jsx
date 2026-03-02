@@ -38,7 +38,7 @@ const Home = () => {
             </h3>
             <ul>
               <li>2024 Aug ~ current</li>
-              <li>A unified AI chat platform that aggregates OpenAI, Gemini, Claude, and Grok into a single workspace, allowing your conversations and budget in one place with pay-as-you-go pricing, and eliminating the need for multiple monthly subscriptions.</li>
+              <li>A unified AI chat platform that aggregates OpenAI, Gemini, Claude, and Grok into a single workspace, allowing your conversations and budget to be managed in one place with pay-as-you-go pricing, and eliminating the need for multiple monthly subscriptions.</li>
               <li>Vibe coded with Claude Code and hosted at <a href="https://chat.ericlauchiho.me" target="_blank" style={{color: "rgb(200, 50, 50)"}}>https://chat.ericlauchiho.me</a>.</li>
               <li>
                 Built on top of an <a href="https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web">open source project</a>.
